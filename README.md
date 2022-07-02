@@ -1,4 +1,4 @@
-[![MasterHead](https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2022/05/vscode-black-formatter.gif)](https://rishavchanda.io)
+[![MasterHead](https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2022/05/vscode-black-formatter.gif)]
 <h1 align="center">Hi 👋, I'm Fahim_Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,13 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/fahimahmedafran" target="blank"><img src="https://img.shields.io/twitter/follow/fahimahmedafran?logo=twitter&style=for-the-badge" alt="fahimahmedafran" /></a> </p>
 
-- 🔭 I’m currently working on **Car Express**
+- 🔭 I’m currently working on **POGO-FOGO-ECOMMERCE WEBSITE**
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, MERN**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-4e8ac.web.app/](https://portfolio-4e8ac.web.app/)
-
-- 📝 I regularly write articles on [https://portfolio-4e8ac.web.app/](https://portfolio-4e8ac.web.app/)
 
 - 💬 Ask me about **JavaScript and React**
 
